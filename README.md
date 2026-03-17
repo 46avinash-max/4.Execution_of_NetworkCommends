@@ -91,7 +91,9 @@ s.close()
 
 <img width="1920" height="1080" alt="NETSTAT (2)" src="https://github.com/user-attachments/assets/fdba119c-a4e0-4dc3-b037-e46a869be3d6" />
 ## TCPDUMP
-![TCP DUMP](https://github.com/user-attachments/assets/21874f55-a031-427b-a342-533f545652c6)
+ 
+<img width="1593" height="877" alt="Screenshot 2026-03-17 210832" src="https://github.com/user-attachments/assets/65e13cd5-a4d1-4cb6-9fa0-b9b4aea984ea" />
+
 
 
 
