@@ -72,9 +72,9 @@ s.close()
 ~~~
 
 ## Output
-## SERVER
-<img width="1326" height="279" alt="4server" src="https://github.com/user-attachments/assets/66eb89d3-ecb1-4d32-9098-b8fb9f9cabde" />
 ## CLIENT
+<img width="1326" height="279" alt="4server" src="https://github.com/user-attachments/assets/66eb89d3-ecb1-4d32-9098-b8fb9f9cabde" />
+## SERVER
 
 <img width="1312" height="197" alt="client" src="https://github.com/user-attachments/assets/1251120b-523a-4549-be0f-506b0d7699ae" />
 ## TRACEROUTE
