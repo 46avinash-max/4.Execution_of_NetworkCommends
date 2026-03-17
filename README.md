@@ -74,9 +74,11 @@ s.close()
 ## Output
 ## CLIENT
 <img width="1326" height="279" alt="4server" src="https://github.com/user-attachments/assets/66eb89d3-ecb1-4d32-9098-b8fb9f9cabde" />
+
 ## SERVER
 
 <img width="1312" height="197" alt="client" src="https://github.com/user-attachments/assets/1251120b-523a-4549-be0f-506b0d7699ae" />
+
 ## TRACEROUTE
 
 <img width="1920" height="1080" alt="TRACERT" src="https://github.com/user-attachments/assets/2c80bfdf-1baf-46ec-a820-54ffa721d780" />
@@ -87,9 +89,11 @@ s.close()
 
 ## NSLOOKUP
 <img width="1920" height="1080" alt="NSLOOKUP" src="https://github.com/user-attachments/assets/a53e185b-e864-482c-ae37-985962b5bd39" />
+
 ## NETSTAT
 
 <img width="1920" height="1080" alt="NETSTAT (2)" src="https://github.com/user-attachments/assets/fdba119c-a4e0-4dc3-b037-e46a869be3d6" />
+
 ## TCPDUMP
  
 <img width="1593" height="877" alt="Screenshot 2026-03-17 210832" src="https://github.com/user-attachments/assets/65e13cd5-a4d1-4cb6-9fa0-b9b4aea984ea" />
